@@ -1,0 +1,26 @@
+{
+  "title": "A Conexão Pessoal Ininterrupta e o Nascimento da Cultura do Compartilhamento",
+  "sections": [
+    {
+      "heading": "A Conectividade se Torna Constante: Banda Larga e Wi-Fi",
+      "paragraph": "A principal transformação infraestrutural da década foi a ampla adoção da banda larga, que gradualmente substituiu a conexão discada lenta (dial-up). A internet de alta velocidade tornou possível o consumo de mídias pesadas e, juntamente com o surgimento do padrão Wi-Fi para uso doméstico, permitiu que as pessoas permanecessem online em casa sem ocupar a linha telefônica. Essa conectividade constante deu o suporte técnico necessário para o surgimento de novas formas de comunicação, como a VoIP (Voice over IP), popularizada pelo Skype (2003), e o consumo de conteúdo em streaming e vídeo.",
+      "imagePath": "/img/decadas/2000/img1.webp",
+      "imageAlt": "",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "A Ascensão das Redes Sociais e do Conteúdo Gerado pelo Usuário",
+      "paragraph": "Os anos 2000 definiram a Web 2.0, transformando a internet de um meio de consumo de informação (apenas leitura) em uma plataforma de interação e criação de conteúdo. O surgimento de redes sociais como Orkut (2004), MySpace e Facebook (2004) criou novas estruturas sociais online. Paralelamente, o lançamento do YouTube (2005) massificou o consumo e, crucialmente, a produção de vídeos gerados pelo usuário, enquanto mensageiros instantâneos como o MSN Messenger dominaram a comunicação em tempo real, mudando a forma como as amizades e relacionamentos eram mantidos.",
+      "imagePath": "/img/decadas/2000/img2.webp",
+      "imageAlt": "",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "Convergência Digital e o Início da Era Smartphone",
+      "paragraph": "A década foi marcada pela convergência de várias funções em dispositivos portáteis. O iPod (2001) revolucionou a forma como se consumia música, permitindo levar milhares de canções no bolso e estabelecendo o modelo de loja digital (iTunes Store). Posteriormente, a introdução do iPhone (2007) pela Apple marcou um ponto de inflexão na telefonia. Ao combinar em um único aparelho um telefone, um reprodutor de música e um dispositivo de internet com tela touchscreen, ele deu o pontapé inicial para a era dos smartphones, fundindo as funções de comunicação, entretenimento e computação móvel.",
+      "imagePath": "/img/decadas/2000/img3.jpg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "A Consolidação do PC, a Ascensão do Digital e a Música Portátil",
+  "sections": [
+    {
+      "heading": "A Padronização da Computação Pessoal (PC)",
+      "paragraph": "A década de 1980 marcou a consolidação e a popularização do computador pessoal (PC). O lançamento do IBM PC em 1981 estabeleceu um padrão de hardware e software que seria amplamente copiado (os chamados 'compatíveis'), impulsionando a computação no ambiente corporativo. Pouco depois, em 1984, o Apple Macintosh introduziu e popularizou a interface gráfica do usuário (GUI) e o uso do mouse para o público em geral, tornando as máquinas muito mais intuitivas e acessíveis a quem não era especialista. Essa competição entre padrões (IBM/DOS e Apple/Mac OS) acelerou o desenvolvimento de softwares e a adoção massiva dos computadores em escritórios e residências.",
+      "imagePath": "/img/decadas/1980/img1.webp",
+      "imageAlt": "Computador pessoal IBM",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "A Revolução do Áudio Digital e Portátil",
+      "paragraph": "O consumo de mídia sofreu uma transformação irreversível com a chegada de tecnologias digitais e portáteis. Fruto de uma colaboração entre Sony e Philips, o Compact Disc (CD) foi lançado no início da década, revolucionando a qualidade de áudio ao substituir o chiado do vinil pela clareza digital. Ao mesmo tempo, o Walkman da Sony, lançado pouco antes, na virada para os anos 80, se tornou um ícone cultural, consolidando a ideia de que a música poderia ser portátil e individual, ouvida em fones de ouvido em qualquer lugar. Essas duas inovações mudaram fundamentalmente a forma como a música era produzida, distribuída e consumida.",
+      "imagePath": "/img/decadas/1980/img2.webp",
+      "imageAlt": "Walkman da Sony",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "A Conectividade dos Negócios",
+      "paragraph": "No ambiente de negócios, o Fax se tornou o método padrão de comunicação instantânea de documentos, permitindo a transmissão de textos e imagens através de linhas telefônicas e acelerando drasticamente as transações comerciais globais. Esse avanço na conectividade e transferência de dados prenunciou a era da informação globalizada.",
+      "imagePath": "/img/decadas/1980/img3.jpg",
+      "imageAlt": "Fax",
+      "imagePosition": "right"
+    }
+  ]
+}

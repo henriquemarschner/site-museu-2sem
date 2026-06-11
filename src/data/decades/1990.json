@@ -1,0 +1,26 @@
+{
+  "title": "A Explosão Global da World Wide Web e a Era da Convergência Digital",
+  "sections": [
+    {
+      "heading": "A Internet se Torna Pública: World Wide Web (WWW)",
+      "paragraph": "A maior revolução tecnológica da década de 1990 foi a abertura da World Wide Web (WWW) ao público em geral. Embora a Internet (ARPANET) já existisse, em 1993, a liberação do código da web pelo CERN e a popularização de navegadores gráficos como o Mosaic e, posteriormente, o Netscape, transformaram o protocolo em um fenômeno cultural e comercial. Esse momento marcou o início da navegação como a conhecemos hoje, permitindo o acesso a informações interligadas por hiperlinks, o que levou ao surgimento das primeiras empresas de comércio eletrônico, como a Amazon (1994) e o eBay (1995).",
+      "imagePath": "/img/decadas/1990/img1.jpg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "Consolidação do Computador Pessoal e o Desktop Moderno",
+      "paragraph": "O PC consolidou seu domínio no mercado de trabalho e doméstico. O lançamento do Windows 95 pela Microsoft em 1995 foi um marco crucial, introduzindo a interface de usuário moderna (com o botão 'Iniciar', barra de tarefas e multitarefas) que padronizou a experiência de desktop para a maioria dos usuários. Essa popularização foi complementada pelos avanços no hardware, como os processadores Intel Pentium, que aumentaram exponencialmente a capacidade de processamento dos PCs, e a invenção da porta USB (Universal Serial Bus) em 1995, que facilitou a conexão de periféricos e a transferência de dados.",
+      "imagePath": "/img/decadas/1990/img2.jpg",
+      "imageAlt": "",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "A Miniaturização das Mídias e dos Dispositivos de Comunicação",
+      "paragraph": "A mobilidade e o entretenimento também avançaram significativamente. Os telefones celulares deixaram de ser itens de luxo e ficaram menores, impulsionados pela popularização da tecnologia GSM e o surgimento de designs como o celular 'flip' (exemplo: Motorola StarTAC, 1996). O envio da primeira mensagem de texto (SMS) em 1992 abriu um novo canal de comunicação móvel. No entretenimento, o DVD (Digital Versatile Disc) foi introduzido em 1996, oferecendo qualidade superior e maior capacidade de armazenamento de dados em comparação com os CDs e as fitas VHS, definindo o padrão para a distribuição de vídeo nos anos seguintes.",
+      "imagePath": "/img/decadas/1990/img3.webp",
+      "imageAlt": "",
+      "imagePosition": "right"
+    }
+  ]
+}

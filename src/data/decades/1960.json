@@ -1,0 +1,26 @@
+{
+  "title": "A Conquista do Espaço e o Nascimento do Chip",
+  "sections": [
+    {
+      "heading": "A Corrida Espacial e o Homem na Lua",
+      "paragraph": "A década de 1960, envolta em grandes transformações sociais e culturais, foi igualmente um período de efervescência e avanços tecnológicos que moldaram o mundo moderno. Impulsionada principalmente pela intensa competição da Guerra Fria e pela Corrida Espacial entre os Estados Unidos e a União Soviética, a inovação atingiu patamares inéditos. O ápice veio em 1969, com a missão Apollo 11, que levou Neil Armstrong a ser o primeiro homem a pisar na Lua, um feito que representou um gigantesco salto para a engenharia e a ciência da humanidade, gerando tecnologias que mais tarde seriam adaptadas para uso cotidiano.",
+      "imagePath": "/img/decadas/1960/img1.jpg",
+      "imageAlt": "Neil Armstrong na Lua",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "Os Primórdios da Era Digital",
+      "paragraph": "No campo da informática e eletrônica, os anos 60 foram cruciais. A indústria começou a migrar dos grandes computadores de válvulas para máquinas mais compactas, impulsionadas pela invenção e aprimoramento do circuito integrado, ou chip, lançado pela IBM em 1964. Essa miniaturização abriu caminho para o desenvolvimento de minicomputadores, tornando a tecnologia mais acessível para uso comercial e científico. Além disso, em 1969, o embrião do que viria a ser a internet nasceu: a ARPANET, uma rede pioneira de interconexão de computadores inicialmente desenvolvida para fins militares e de pesquisa nos EUA.",
+      "imagePath": "/img/decadas/1960/img2.jpg",
+      "imageAlt": "",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "Ascensão da Televisão em Cores e Novas Mídias",
+      "paragraph": "Embora já existisse, a TV em cores começou sua expansão em diversos países, transformando a experiência visual e a publicidade. Paralelamente, a indústria fonográfica foi impactada com a popularização das fitas cassete, uma alternativa portátil e prática aos discos de vinil para a audição de música.",
+      "imagePath": "/img/decadas/1960/img3.jpg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    }
+  ]
+}

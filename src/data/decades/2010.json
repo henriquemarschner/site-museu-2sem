@@ -1,0 +1,26 @@
+{
+  "title": "A Consolidação do Mobile, a Supremacia dos Aplicativos e a Era da Nuvem",
+  "sections": [
+    {
+      "heading": "O Domínio do Smartphone e a Economia dos Aplicativos",
+      "paragraph": "A década de 2010 viu o smartphone se tornar o principal dispositivo de acesso à informação no planeta, impulsionado pela popularização global dos sistemas operacionais iOS e Android. Essa supremacia móvel deu origem à 'economia dos aplicativos', com o surgimento de plataformas essenciais para o dia a dia, como o WhatsApp (lançado em 2009, mas que se tornou hegemônico nos anos 2010) e o Instagram (2010). A conectividade foi massificada com a expansão global do 4G, fornecendo a velocidade e a estabilidade necessárias para a navegação, chamadas de vídeo e o uso intensivo de dados em qualquer lugar.",
+      "imagePath": "/img/decadas/2010/img1.jpeg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "A Ascensão da Inteligência Artificial e do Big Data",
+      "paragraph": "Enquanto a IA (Inteligência Artificial) era um conceito acadêmico, nos anos 2010 ela se tornou uma realidade prática através do Aprendizado de Máquina (Machine Learning). A capacidade de processar grandes volumes de dados (Big Data) gerados pelos smartphones e plataformas online permitiu o treinamento de algoritmos sofisticados. Isso resultou na popularização dos assistentes inteligentes baseados em voz (como Alexa e Siri), bem como em mecanismos de recomendação altamente precisos em serviços de mídia e comércio eletrônico, transformando a personalização da experiência digital.",
+      "imagePath": "/img/decadas/2010/img2.jpg",
+      "imageAlt": "",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "A Supremacia do Streaming e da Computação em Nuvem",
+      "paragraph": "A Computação em Nuvem (Cloud Computing) evoluiu de uma tendência para a espinha dorsal da internet moderna. Grandes empresas migraram seus dados e softwares para servidores remotos, reduzindo custos e aumentando a escalabilidade. Para o consumidor, a nuvem foi a base para o sucesso absoluto do streaming de mídia. Plataformas como a Netflix (expandida globalmente a partir de 2011) e o Spotify mudaram permanentemente o consumo de entretenimento, tornando o acesso a filmes, séries e músicas por assinatura e sob demanda o novo padrão, aposentando de vez as mídias físicas como DVD e CD.",
+      "imagePath": "/img/decadas/2010/img3.jpeg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "A Convergência de IA Geral, Conectividade Sentiente e Otimização Biológica",
+  "sections": [
+    {
+      "heading": "A Chegada da Inteligência Artificial Geral (AGI)",
+      "paragraph": "A década de 2030 será marcada pela corrida para o desenvolvimento da Inteligência Artificial Geral (AGI), que promete alcançar a capacidade cognitiva de um ser humano, incluindo a habilidade de aprender, raciocinar e generalizar tarefas em diversos domínios. A AGI não apenas automatizará tarefas, mas agirá como 'agentes autônomos', gerenciando projetos complexos, realizando pesquisas científicas a uma velocidade inigualável e otimizando sistemas industriais e logísticos de forma radical. Essa tecnologia, suportada por quantidades massivas de poder computacional, será o principal motor de inovação e reestruturação social.",
+      "imagePath": "/img/decadas/2030/img1.webp",
+      "imageAlt": "",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "Computação Quântica",
+      "paragraph": "Os primeiros computadores quânticos comercialmente viáveis começarão a resolver problemas complexos (como otimização de novos materiais e desenvolvimento de medicamentos) que estão fora do alcance dos supercomputadores atuais.",
+      "imagePath": "/img/decadas/2030/img2.webp",
+      "imageAlt": "",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "O Futuro da Medicina de Precisão e Otimização Humana",
+      "paragraph": "A biotecnologia entrará na era da Medicina Preditiva e Personalizada. Impulsionada pela IA e pela análise de Big Data genômico, a medicina se moverá dos hospitais para o domicílio, com diagnósticos ultrarrápidos e monitoramento constante por wearables avançados. As Terapias Gênicas e Celulares se tornarão tratamentos padronizados, capazes de curar doenças genéticas e neurológicas. Além disso, o foco se voltará para a otimização biológica e longevidade, com o desenvolvimento de tecnologias para retardar o envelhecimento celular (senolíticos) e o uso de bioimpressão 3D para produzir tecidos e órgãos para transplante sob demanda.",
+      "imagePath": "/img/decadas/2030/img3.jpg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    }
+  ]
+}

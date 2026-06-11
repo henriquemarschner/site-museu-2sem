@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "1960: Os primeiros Sistemas Operacionais",
+    "subtitle": "A base para os computadores do futuro.",
+    "quote": "A 'cola' invisível que transformou o hardware em uma ferramenta útil, pavimentando o caminho para a era digital.",
+    "imageUrl": "/img/cards/img1.jpg",
+    "href": "/decadas/1960"
+  },
+  {
+    "id": 2,
+    "title": "1970: Ascensão da computação pessoal",
+    "subtitle": "O computador chega às casas e escritórios.",
+    "quote": "Dos laboratórios fechados para a mesa de trabalho: a computação deixou de ser um luxo de gigantes para se tornar o poder nas mãos do indivíduo.",
+    "imageUrl": "/img/cards/img2.jpg",
+    "href": "/decadas/1970"
+  },
+  {
+    "id": 3,
+    "title": "1980: O Boom da Internet",
+    "subtitle": "Nasce a rede que conecta o mundo inteiro.",
+    "quote": "A Internet não apenas ligou computadores, mas sim teceu o tecido invisível da informação, encolhendo o mundo a um clique e tornando a distância obsoleta.",
+    "imageUrl": "/img/cards/img3.jpeg",
+    "href": "/decadas/1980"
+  },
+  {
+    "id": 4,
+    "title": "1990: O mundo Mobile",
+    "subtitle": "A comunicação se torna portátil e instantânea.",
+    "quote": "O telefone se libertou da parede. Pela primeira vez, a informação e a voz caminhavam conosco, transformando o 'estar conectado' de um local para um estado de ser.",
+    "imageUrl": "/img/cards/img4.webp",
+    "href": "/decadas/1990"
+  },
+  {
+    "id": 5,
+    "title": "2000: Surgimento dos Smartphones",
+    "subtitle": "Internet, câmera e telefone em um só aparelho.",
+    "quote": "Não era apenas um telefone mais inteligente, era um canivete suíço digital. O smartphone colocou o poder de um PC, a visão de uma câmera e a conexão do mundo no bolso de bilhões.",
+    "imageUrl": "/img/cards/img5.jpg",
+    "href": "/decadas/2000"
+  },
+  {
+    "id": 6,
+    "title": "2010: A computação em Nuvem",
+    "subtitle": "Arquivos e sistemas passam a existir online.",
+    "quote": "Abandonamos os HDs físicos e olhamos para o céu digital. A Nuvem libertou a informação do hardware local, tornando os dados tão onipresentes quanto o ar.",
+    "imageUrl": "/img/cards/img6.jpg",
+    "href": "/decadas/2010"
+  },
+  {
+    "id": 7,
+    "title": "2020: Revolução da Inteligência Artificial",
+    "subtitle": "Máquinas aprendem, criam e auxiliam nas decisões.",
+    "quote": "A IA não é mais ficção científica; é o co-piloto da humanidade. É a década em que o software começou a pensar, transformar e redefinir o que significa ser produtivo.",
+    "imageUrl": "/img/cards/img7.webp",
+    "href": "/decadas/2020"
+  },
+  {
+    "id": 8,
+    "title": "2030: O Que Nos Aguarda?",
+    "subtitle": "Inovações que transformarão a vida cotidiana.",
+    "quote": "O futuro não é algo que esperamos, é algo que construímos. A década de 2030 está pronta para transformar o inimaginável de hoje na rotina de amanhã, impulsionada pela fusão da biologia com a tecnologia.",
+    "imageUrl": "/img/cards/img8.png",
+    "href": "/decadas/2030"
+  }
+]

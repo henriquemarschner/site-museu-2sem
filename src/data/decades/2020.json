@@ -1,0 +1,26 @@
+{
+  "title": "A Inteligência Artificial Generativa, a Conectividade 5G e a Digitalização Total",
+  "sections": [
+    {
+      "heading": "A Revolução da Inteligência Artificial Generativa",
+      "paragraph": "O ponto de virada definitivo da década de 2020 é a Inteligência Artificial Generativa. O lançamento e a rápida popularização de ferramentas como o ChatGPT (2022) e geradores de imagem como DALL-E e Midjourney democratizaram o uso de modelos de linguagem grandes (Large Language Models - LLMs) e transformaram a relação humana com a máquina. Pela primeira vez, a IA deixou de ser apenas um mecanismo de recomendação ou análise de dados (IA Clássica) para se tornar uma ferramenta de criação, capaz de produzir textos, códigos, imagens e até áudios complexos, alterando fundamentalmente o mercado de trabalho e as tarefas intelectuais.",
+      "imagePath": "/img/decadas/2020/img1.webp",
+      "imageAlt": "",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "A Era da Conectividade Ultrarrápida com o 5G",
+      "paragraph": "A infraestrutura essencial desta década é o 5G. Sua implantação global acelerada fornece velocidades de conexão exponencialmente maiores e, mais crucialmente, uma latência (atraso) significativamente menor em comparação com o 4G. Essa velocidade ultrarrápida é a base tecnológica para o crescimento de várias inovações, incluindo a consolidação da Internet das Coisas (IoT) em escala massiva, que conecta desde eletrodomésticos até cidades inteiras (Smart Cities), e o desenvolvimento de conceitos imersivos, como o Metaverso e experiências avançadas de Realidade Virtual/Aumentada (VR/AR).",
+      "imagePath": "/img/decadas/2020/img2.webp",
+      "imageAlt": "",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "Inovação Verde: Biotecnologia e Sustentabilidade",
+      "paragraph": "Em resposta às urgências climáticas, a tecnologia dos anos 2020 passou a focar na sustentabilidade e na bioeconomia. Houve um salto na Biotecnologia (Biotec), com o avanço de tecnologias como as vacinas de mRNA (desenvolvidas rapidamente durante a pandemia) e a expansão de Terapias Gênicas e de Medicina Personalizada. Além disso, a busca por fontes de energia limpa impulsionou o desenvolvimento de novas gerações de baterias de alta performance para a mobilidade elétrica e a pesquisa em materiais avançados, visando a redução da pegada de carbono global.",
+      "imagePath": "/img/decadas/2020/img3.jpg",
+      "imageAlt": "",
+      "imagePosition": "right"
+    }
+  ]
+}

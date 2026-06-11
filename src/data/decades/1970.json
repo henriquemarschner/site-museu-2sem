@@ -1,0 +1,26 @@
+{
+  "title": "A Era do Microprocessador e a Gênese do Computador Pessoal",
+  "sections": [
+    {
+      "heading": "O Microprocessador: O Cérebro da Nova Computação",
+      "paragraph": "A década de 1970 é frequentemente marcada como o período em que a tecnologia começou a se tornar verdadeiramente pessoal, graças à inovação central do microprocessador. Em 1971, a Intel lançou o Intel 4004, o primeiro microprocessador comercial, um 'computador em um chip'. Essa invenção revolucionária permitiu a miniaturização e o barateamento dos equipamentos eletrônicos. No rastro dessa inovação, surgiram os primeiros computadores pessoais (PCs), como o Altair 8800 (1975) e, notavelmente, o Apple II (1977), que começaram a levar a capacidade de processamento para fora dos grandes centros de pesquisa e corporações, dando o passo inicial para a computação doméstica.",
+      "imagePath": "/img/decadas/1970/img1.jpg",
+      "imageAlt": "Microprocessador Intel",
+      "imagePosition": "right"
+    },
+    {
+      "heading": "A Expansão da Comunicação Digital e Portátil",
+      "paragraph": "Além da revolução no hardware, os anos 70 viram o nascimento de novas formas de comunicação e mídia. O sistema de e-mail, que havia sido inventado no início da década em 1971, começou a ser amplamente utilizado pelos usuários da ARPANET, transformando a comunicação entre máquinas. No campo da telefonia, Martin Cooper da Motorola realizou a primeira chamada de celular em 1973, marcando a estreia do telefone móvel.",
+      "imagePath": "/img/decadas/1970/img2.jpeg",
+      "imageAlt": "A primeira chamada de celular",
+      "imagePosition": "left"
+    },
+    {
+      "heading": "Revolução na Comunicação e Entretenimento Doméstico",
+      "paragraph": "Os anos 70 também transformaram a comunicação e o lazer, no campo do entretenimento interativo, o lançamento do console Magnavox Odyssey (1972) e do icônico jogo de arcade Pong abriu as portas para o mercado de videogames domésticos, que se tornaria uma potência global.",
+      "imagePath": "/img/decadas/1970/img3.jpg",
+      "imageAlt": "Jogo Pong",
+      "imagePosition": "right"
+    }
+  ]
+}
